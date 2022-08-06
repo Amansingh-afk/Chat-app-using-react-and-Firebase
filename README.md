@@ -27,7 +27,7 @@ Sender view:<br>
 Interlocutor view:<br>
 ![7](https://user-images.githubusercontent.com/75016013/183243312-85295b05-745a-4679-be96-d8b48207c8a0.png)
 
-`!!Example of the real discussion!!`<br>
+Example of the real discussion:<br>
 ![8](https://user-images.githubusercontent.com/75016013/183243338-998c2e2b-0732-4a49-a969-e001a2b0ae59.png)
 
 Search in friends list:<br>
