@@ -19,7 +19,8 @@ Errors handling:<br>
 `After signing in you will see the main frame`
 
 Main frame:<br>
-![5](https://user-images.githubusercontent.com/75016013/183243290-8608dd45-074c-4974-945f-3a5761d6ae83.png)
+![5](https://user-images.githubusercontent.com/75016013/183243657-6c67319c-2f9c-43ff-9dc6-8aa63b57d5e6.png)
+
 
 Sender view:<br>
 ![6](https://user-images.githubusercontent.com/75016013/183243298-20256793-ac8c-4c25-8c6b-aa967b1804d2.png)
