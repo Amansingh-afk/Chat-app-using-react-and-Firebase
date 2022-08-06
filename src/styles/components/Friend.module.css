@@ -1,0 +1,42 @@
+.user {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    margin: 10px auto;
+    border: 1px solid coral;
+    color: darkorange;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    transition: .3s all ease;
+}
+.userActive {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    margin: 10px auto;
+    border: 1px solid coral;
+    color: ghostwhite;
+    background-color: darkorange;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+.user:hover {
+    color: ghostwhite;
+    background-color: darkorange;
+}
+.username {
+    font-size: 17px;
+    padding-left: 20px;
+}
+.avatar {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}

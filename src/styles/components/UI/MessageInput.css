@@ -1,0 +1,14 @@
+.messageInput {
+    width: 80%;
+    height: 30px;
+    border: 1px solid coral;
+    border-radius: 0 0 0 10px;
+    color: coral;
+    background-color: beige;
+    padding: 5px 15px;
+
+    box-shadow: 0 7px 15px 1px rgba(238, 152, 54, 0.4);
+}
+.messageInput::placeholder {
+    color: coral;
+}

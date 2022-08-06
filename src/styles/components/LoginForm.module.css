@@ -1,0 +1,8 @@
+.active {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.nonActive {
+    display: none;
+}

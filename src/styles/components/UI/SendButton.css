@@ -1,0 +1,20 @@
+.sendButton {
+    width: 20%;
+    height: 30px;
+    border: none;
+    background-color: coral;
+    border-radius: 0 0 10px 0;
+    color: beige;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0 7px 15px 1px rgba(238, 152, 54, 0.4);
+
+    transition: all .5s ease;
+}
+.sendButton:hover {
+    border: 1px solid coral;
+    border-left: none;
+    background-color: ghostwhite;
+    color: coral
+}

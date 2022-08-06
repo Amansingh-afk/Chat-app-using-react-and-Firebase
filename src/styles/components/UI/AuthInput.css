@@ -1,0 +1,14 @@
+.authInput {
+    border: 1px solid coral;
+    background-color: ghostwhite;
+    color: coral;
+    width: 220px;
+    height: 30px;
+
+    border-radius: 7px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.authInput::placeholder {
+    color: coral;
+}
