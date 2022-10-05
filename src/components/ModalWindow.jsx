@@ -5,7 +5,6 @@ import RegistrationForm from './RegistrationForm'
 import ReportComponent from './ReportComponent'
 
 import cl from '../styles/components/ModalWindow.module.css'
-import background from '../styles/images/modalBackground_2.jpg'
 
 const ModalWindow = ({vision, users, setModal, setActiveUser, createUser}) => {
     const [form, setForm] = useState(true)
@@ -35,9 +34,9 @@ const ModalWindow = ({vision, users, setModal, setActiveUser, createUser}) => {
             <div className={cl.modalBox}>
                 <h1 className={form ? cl.modalSubTitle : cl.nonActive}>Don't have account already ? <span onClick={redirectToRegistration} className={cl.modalLink}>Click here</span>.</h1>
             </div>
-            <div>
+            {/* <div>
                 <img src={background} className={cl.modalBackground} alt="" />
-            </div>
+            </div> */}
         </div>
     )
 }

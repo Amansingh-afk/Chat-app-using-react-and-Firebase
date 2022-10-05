@@ -1,14 +1,18 @@
 .authInput {
-    border: 1px solid coral;
-    background-color: ghostwhite;
-    color: coral;
+    /* border: 1px solid coral; */
+    background-color: #323232;
+    color: #656565;
     width: 220px;
     height: 30px;
 
     border-radius: 7px;
     margin-bottom: 10px;
     padding-left: 10px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
 }
 .authInput::placeholder {
-    color: coral;
+    color: #656565;
 }

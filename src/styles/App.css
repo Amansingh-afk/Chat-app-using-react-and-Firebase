@@ -9,10 +9,10 @@
     width: 640px;
     height: 500px;
     
-    -webkit-box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4);
-    -moz-box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4);
-    box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4);
-    
+    /* -webkit-box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4);
+    -moz-box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4); */
+    /* box-shadow: 0 0 24px 3px rgba(238, 152, 54, 0.4); */
+    background-color: #000;
     margin: 80px auto 0;
     border-radius: 20px;
     padding: 10px;

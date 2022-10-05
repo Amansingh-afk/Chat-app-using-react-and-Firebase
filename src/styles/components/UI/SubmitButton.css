@@ -11,8 +11,8 @@
     transition: all .3s ease;
 }
 .submitButton:hover {
-    background-color: ghostwhite;
+    background-color: #323232;
     color: limegreen;
-    border: 2px solid limegreen;
+    border: 1px solid #000;
     font-weight: 700;
 }

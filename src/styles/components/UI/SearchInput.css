@@ -1,12 +1,13 @@
 .searchInput {
-    width: 150px;
+    width: 200px;
     height: 20px;
 
-    border-color: coral;
+    border: none;
+    border-radius: 10px;
 
-    padding: 10px 7px;
+    padding: 10px 20px;
     margin: 0 auto;
 }
 .searchInput::placeholder {
-    color: coral;
+    color: #000;
 }

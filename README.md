@@ -7,7 +7,8 @@ This app provides all main functions you except from messenger
 <br>
 <br>
 Login frame:<br>
-![1](https://user-images.githubusercontent.com/75016013/183242764-00d828b1-5a46-46eb-8f18-c934f6b0f9c6.png)
+![login frame](https://user-images.githubusercontent.com/90978519/194001769-9b790606-f6af-49bf-b208-cbd4472c10ae.png)
+
 
 Registration frame:<br>
 ![2](https://user-images.githubusercontent.com/75016013/183243226-aa72ae63-1b37-4dca-8abf-5672779a5ea3.png)

@@ -8,7 +8,9 @@
     position: absolute;
     z-index: 2;
 
-    background-color: rgba(255, 255, 255, 0.8);
+    /* background-color: rgba(255, 255, 255, 0.8); */
+    background-color: #222;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 
     margin: 80px auto 0;
     border-radius: 20px;
@@ -27,7 +29,7 @@
     top: 0;
     left: 0;
 
-    opacity: 27%;
+    opacity: 0%;
     z-index: 1;
 }
 .modalBox {
@@ -40,14 +42,14 @@
 .modalTitle {
     font-size: 23px;
     margin-bottom: 30px;
-    color: rgb(145, 56, 24);
+    color: #f1f1f1;
 
     z-index: 2;
 }
 .modalSubTitle {
     margin-top: 20px;
     font-size: 13px;
-    color: rgb(115, 39, 11);
+    color: #f1f1f1;
 
     z-index: 2;
 }

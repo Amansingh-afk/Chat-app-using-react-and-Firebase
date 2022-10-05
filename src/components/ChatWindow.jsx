@@ -24,7 +24,7 @@ const ChatWindow = ({messages, activeUser, placeholder, interlocutor}) => {
     return (
         <div className="mainWindow">
             <div className="mainWindow_header">
-                <h1 className="mainWindow_title">talk me</h1>
+                <h1 className="mainWindow_title">Baat KRO</h1>
                 <h2 className="mainWindow_interlocutor">{interlocutor.name}</h2>
             </div>
             <div className="chatWindow">

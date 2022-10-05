@@ -11,12 +11,9 @@ import './styles/App.css'
 function App() {
     const [isAuth, setAuth]= useState(false);
     const [users, setUsers] = useState([
-        {id: 1, name: 'Admin', password: '1234'},
-        {id: 2, name: 'kkkk', password: '1'},
-        {id: 3, name: 'kirill', password: '1'},
-        {id: 4, name: 'test_user', password: '1'},
-        {id: 5, name: 'whereareyo', password: '1'},
-        {id: 6, name: 'internal_dragon_', password: '1'},
+        {id: 1, name: 'Admin', password: 'Firebase'},
+        {id: 2, name: 'test_user', password: 'password'},
+        {id: 5, name: 'test_user_2', password: 'password'},
     ]);
     const [activeUser, setActiveUser] = useState({})
     const [chat, setChat] = useState([
