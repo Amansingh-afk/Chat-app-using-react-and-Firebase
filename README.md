@@ -8,10 +8,6 @@ This app provides all main functions you except from messenger
 <br>
 Login frame:<br>
 ![login frame](https://user-images.githubusercontent.com/90978519/194001769-9b790606-f6af-49bf-b208-cbd4472c10ae.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> edd8be7eba9b448fac87c28f04c8706486cb4aeb
 
 Registration frame:<br>
 ![2](https://user-images.githubusercontent.com/75016013/183243226-aa72ae63-1b37-4dca-8abf-5672779a5ea3.png)
