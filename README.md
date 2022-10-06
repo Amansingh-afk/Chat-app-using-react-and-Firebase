@@ -1,6 +1,7 @@
 # Real time chat, created using React & Firebase
 
 This app provides all main functions you except from messenger
+Deployment Link: https://baat-kro.web.app/
 <br>
 <br>
 `To start chatting you need to Sign In to your account or create new one`
